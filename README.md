@@ -31,6 +31,8 @@ Some features that we cover here:
 
 ##### Data Structure & Algorithm
 
+> TIP :: use the website [visualgo](https://visualgo.net/en) to see the Data Structure working.
+
 - Binary Search Tree
 - Dijkstra's Algorithm
 - Doubly Linked List
@@ -53,7 +55,7 @@ Some features that we cover here:
 - Netflix
 - Tiktok
 
-##### Task to prep to Interview
+##### Prep. to Interview
 
 - Javascript
 - ReactJS
