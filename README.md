@@ -10,12 +10,27 @@ Some features that we cover here:
 
 ##### JS
 
-- Array functions
+- Array functions [ reduce, map, forEach, filter, find ]
+- Clousers
+- Debounce, Throtle & setTime
+- Prototype JS
+- Recursive, Promisses & Async
 
 ##### Data Structure & Algorithm
 
-- Array functions
+- Binary Search Tree
+- Dijkstra's Algorithm
+- Doubly Linked List
+- Graph Adjacency
+- Graph Traversal
+- Hash Table
+- Tree Traversal
 
 ##### Task to prep to Interview
 
-- Array functions
+- Javascript
+- ReactJS
+- Angular
+- NodeJS
+- Ionic
+- ReactNative
