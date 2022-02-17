@@ -37,7 +37,7 @@ Some features that we cover here:
 
 ##### System Design
 
-Just a flag, this is to study and not the full projects.
+Just a flag, this is to study and not a full project.
 
 - Soon as possible.
 
