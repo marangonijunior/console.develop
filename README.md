@@ -38,6 +38,12 @@ Some features that we cover here:
 - Graph Traversal
 - Hash Table
 - Tree Traversal
+- Bubble Sort
+- Merge Sort
+- Divide and Conquer
+- Frequency Counter
+- Queues
+- Sliding Window
 
 ##### System Design
 
