@@ -1,6 +1,6 @@
 /**
  * Bubble Sort is about sort the array, swaping between two pointers in the array
- * @param {[number]} arr Array mixed received contain numbers
+ * @param {[number]} arr : Array received mixed containg numbers
  * @returns {[number]} Array in order
  */
 
