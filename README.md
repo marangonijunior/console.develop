@@ -10,12 +10,14 @@ Some features that we cover here:
 
 ##### JS
 
-- Array functions [ reduce, map, forEach, filter, find ]
+- Array functions [ reduce, map, forEach, filter, find, Set ]
 - Clousers
 - Debounce, Throtle & setTime
 - Prototype JS
 - Recursive, Promisses & Async
 - Fetch API
+- Spread
+- Regex
 
 ##### HTML
 
@@ -24,6 +26,8 @@ Some features that we cover here:
 - Form
 - Modal
 - Sign up by steps
+- Events
+- Table
 
 ##### Data Structure & Algorithm
 
@@ -37,9 +41,11 @@ Some features that we cover here:
 
 ##### System Design
 
-Just a flag, this is to study and not a full project.
+> Just a flag, this is to study and not a full project.
 
-- Soon as possible.
+- Instagram
+- Netflix
+- Tiktok
 
 ##### Task to prep to Interview
 
