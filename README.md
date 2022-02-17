@@ -40,7 +40,7 @@ Some features that we cover here:
 - Graph Traversal
 - Hash Table
 - Tree Traversal
-- Queues
+- [Queue](data_structure_algorithm/queues.js)
 - [Bubble Sort](data_structure_algorithm/bubble_sort.js)
 - [Merge Sort](data_structure_algorithm/merge_sort.js)
 - [Quick Sort](data_structure_algorithm/quick_sort.js)
