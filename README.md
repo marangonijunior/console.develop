@@ -15,6 +15,15 @@ Some features that we cover here:
 - Debounce, Throtle & setTime
 - Prototype JS
 - Recursive, Promisses & Async
+- Fetch API
+
+##### HTML
+
+- Carrousel
+- DOM
+- Form
+- Modal
+- Sign up by steps
 
 ##### Data Structure & Algorithm
 
@@ -25,6 +34,12 @@ Some features that we cover here:
 - Graph Traversal
 - Hash Table
 - Tree Traversal
+
+##### System Design
+
+Just a flag, this is to study and not the full projects.
+
+- Soon as possible.
 
 ##### Task to prep to Interview
 
