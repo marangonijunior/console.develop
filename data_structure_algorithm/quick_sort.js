@@ -1,7 +1,8 @@
- /* Quick Sort is about sort the array selecting one element called pivot and fiding the next one that this pivot should be 
- * @param {[number]} arr : Array received mixed containg numbers
- * @returns {[number]} Array in order
- */
+ /** 
+  * Quick Sort is about sort the array selecting one element called pivot and fiding the next one that this pivot should be 
+  * @param {[number]} arr : Array received mixed containg numbers
+  * @returns {[number]} Array in order
+  */
 
 
  function quickSort(arr, leftIdx = 0, rightIdx = arr.length -1) {

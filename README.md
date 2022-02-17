@@ -40,13 +40,14 @@ Some features that we cover here:
 - Graph Traversal
 - Hash Table
 - Tree Traversal
+- Queues
 - [Bubble Sort](data_structure_algorithm/bubble_sort.js)
 - [Merge Sort](data_structure_algorithm/merge_sort.js)
 - [Quick Sort](data_structure_algorithm/quick_sort.js)
-- Divide and Conquer
-- Frequency Counter
-- Queues
-- Sliding Window
+- [Divide and Conquer](data_structure_algorithm/divide_and_conquer.js)
+- [Frequency Counter](data_structure_algorithm/frequency_counter.js)
+- [Anagram](data_structure_algorithm/anagram.js)
+- [Sliding Window](data_structure_algorithm/sliding_window.js)
 
 ##### System Design
 
