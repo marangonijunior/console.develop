@@ -1,11 +1,21 @@
 # console.develop
 
-![GitHub Repo stars](https://img.shields.io/github/stars/marangonijunior/console.develop?style=social)
+> This repository is personal, I created this one to be able to study JS in my free time, feel free to enjoy the code and exercises disposal - Hednei C Marangoni Jr.
 
-![GitHub forks](https://img.shields.io/github/forks/marangonijunior/console.develop?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/marangonijunior/console.develop?style=social) ![GitHub forks](https://img.shields.io/github/forks/marangonijunior/console.develop?style=social) ![GitHub issues](https://img.shields.io/github/issues/marangonijunior/console.develop) ![GitHub last commit](https://img.shields.io/github/last-commit/marangonijunior/console.develop)
 
-![GitHub issues](https://img.shields.io/github/issues/marangonijunior/console.develop)
+### Features
 
-![GitHub last commit](https://img.shields.io/github/last-commit/marangonijunior/console.develop)
+Some features that we cover here:
 
-![GitHub all releases](https://img.shields.io/github/downloads/marangonijunior/console.develop/total)
+##### JS
+
+- Array functions
+
+##### Data Structure & Algorithm
+
+- Array functions
+
+##### Task to prep to Interview
+
+- Array functions
