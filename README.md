@@ -35,7 +35,7 @@ Some features that we cover here:
 
 - Binary Search Tree
 - Dijkstra's Algorithm
-- Doubly Linked List
+- [Doubly Linked List](data_structure_algorithm/doubly_linked_list.js)
 - Graph Adjacency
 - Graph Traversal
 - Hash Table
