@@ -1,3 +1,11 @@
 # console.develop
 
-![](https://img.shields.io/github/stars/console.develop/editor.md.svg) ![](https://img.shields.io/github/forks/console.develop/editor.md.svg) ![](https://img.shields.io/github/tag/console.develop/editor.md.svg) ![](https://img.shields.io/github/release/console.develop/editor.md.svg) ![](https://img.shields.io/github/issues/console.develop/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/marangonijunior/console.develop?style=social)
+
+![GitHub forks](https://img.shields.io/github/forks/marangonijunior/console.develop?style=social)
+
+![GitHub issues](https://img.shields.io/github/issues/marangonijunior/console.develop)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/marangonijunior/console.develop)
+
+![GitHub all releases](https://img.shields.io/github/downloads/marangonijunior/console.develop/total)
