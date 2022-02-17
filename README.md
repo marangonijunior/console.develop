@@ -40,7 +40,7 @@ Some features that we cover here:
 - Graph Traversal
 - Hash Table
 - Tree Traversal
-- Bubble Sort[Bubble Sort](data_structure_algorithm/bubble_sort.js)
+- [Bubble Sort](data_structure_algorithm/bubble_sort.js)
 - Merge Sort
 - Divide and Conquer
 - Frequency Counter
