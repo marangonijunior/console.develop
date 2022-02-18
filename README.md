@@ -33,7 +33,7 @@ Some features that we cover here:
 
 > TIP :: use the website [visualgo](https://visualgo.net/en) to see the Data Structure working.
 
-- Binary Search Tree
+- [Binary Search Tree](data_structure_algorithm/binary_search_tree.js)
 - Dijkstra's Algorithm
 - [Doubly Linked List](data_structure_algorithm/doubly_linked_list.js)
 - Graph Adjacency
