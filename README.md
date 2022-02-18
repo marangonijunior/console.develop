@@ -36,7 +36,7 @@ Some features that we cover here:
 - Dijkstra's Algorithm
 - Graph Adjacency
 - Graph Traversal
-- Hash Table
+- [Hash Table](data_structure_algorithm/hash_table.js)
 - [Binary Search Tree](data_structure_algorithm/binary_search_tree.js)
 - [Tree Traversal](data_structure_algorithm/binary_search_tree.js)
 - [Doubly Linked List](data_structure_algorithm/doubly_linked_list.js)
