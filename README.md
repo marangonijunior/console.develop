@@ -33,13 +33,13 @@ Some features that we cover here:
 
 > TIP :: use the website [visualgo](https://visualgo.net/en) to see the Data Structure working.
 
-- [Binary Search Tree](data_structure_algorithm/binary_search_tree.js)
 - Dijkstra's Algorithm
-- [Doubly Linked List](data_structure_algorithm/doubly_linked_list.js)
 - Graph Adjacency
 - Graph Traversal
 - Hash Table
-- Tree Traversal
+- [Binary Search Tree](data_structure_algorithm/binary_search_tree.js)
+- [Tree Traversal](data_structure_algorithm/binary_search_tree.js)
+- [Doubly Linked List](data_structure_algorithm/doubly_linked_list.js)
 - [Queue](data_structure_algorithm/queues.js)
 - [Bubble Sort](data_structure_algorithm/bubble_sort.js)
 - [Merge Sort](data_structure_algorithm/merge_sort.js)

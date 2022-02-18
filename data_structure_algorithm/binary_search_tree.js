@@ -3,6 +3,7 @@
  * To insert we should folloew the rule, right is bigger than root and left is less then root
  * @method insert to add a node at the end
  * @method find to find a node
+ * @method depthFirstSearch tree traversal
  */
  class Node {
   constructor(val){
@@ -57,6 +58,17 @@ class BinarySearchTree {
    
     return found ? current : null;
   }
+
+  depthFirstSearch(){
+    var data = [];
+    function traverse(node){
+      data.push(node.val);
+      if(node.left) traverse(node.left);
+      if(node.right) traverse(node.right);
+    }
+    traverse(this.root);
+    return data;
+  }
   
 }
 
@@ -69,3 +81,4 @@ bsf.insert(3)
 bsf.insert(40)
 bsf.insert(37)
 bsf.find(37)
+bsf.depthFirstSearch()
