@@ -21,13 +21,14 @@ Some features that we cover here:
 
 ##### HTML
 
+- [Essential HTML](tips_html/essential_html.html)
+- [Table](tips_html/dom.html)
+- [Form](tips_html/form.html)
+- [Events](tips_html/events.html)
+- [Table](tips_html/table.html)
 - Carrousel
-- DOM
-- Form
 - Modal
 - Sign up by steps
-- Events
-- Table
 
 ##### Data Structure & Algorithm
 
