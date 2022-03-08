@@ -10,25 +10,12 @@ Some features that we cover here:
 
 ##### JS
 
-- Array functions [ reduce, map, forEach, filter, find, Set ]
-- Clousers
-- Debounce, Throtle & setTime
-- Prototype JS
-- Recursive, Promisses & Async
-- Fetch API
-- Spread
-- Regex
+If you don't know BFE.dev please take a look in the website, is amazing and hopefull to do the test.
+[BFE](https://bigfrontend.dev/)
 
-##### HTML
-
-- [Essential HTML](tips_html/essential_html.md)
-- [Table](tips_html/dom.html)
-- [Form](tips_html/form.html)
-- [Events](tips_html/events.html)
-- [Table](tips_html/table.html)
-- Carrousel
-- Modal
-- Sign up by steps
+- [6 - debounce/throttle](BFE/throttleDebounce.js)
+  - [debounce](<https://bigfrontend.dev/list/vgc2d80lcrsccm1ptm6#:~:text=6.%20implement%20basic%20debounce()>)
+  - [throttle](<https://bigfrontend.dev/list/vgc2d80lcrsccm1ptm6#:~:text=4.%20implement%20basic%20throttle()>)
 
 ##### Data Structure & Algorithm
 
