@@ -1,4 +1,4 @@
-# console.develop
+# console.dev
 
 > This repository is personal, I created this one to be able to study JS in my free time, feel free to enjoy the code and exercises disposal - Hednei C Marangoni Jr.
 
