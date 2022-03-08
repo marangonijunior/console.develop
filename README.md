@@ -13,9 +13,15 @@ Some features that we cover here:
 If you don't know BFE.dev please take a look in the website, is amazing and hopefull to do the test.
 [BFE](https://bigfrontend.dev/)
 
-- [6 - debounce/throttle](BFE/throttleDebounce.js)
+- [6/4 - debounce/throttle](BFE/throttleDebounce.js)
   - [BFE - debounce](https://bigfrontend.dev/problem/implement-basic-debounce)
   - [BFE - throttle](https://bigfrontend.dev/problem/implement-basic-throttle)
+- [3 - Array.prototype.flat](BFE/flat.js)
+  - [BFE - flat](https://bigfrontend.dev/problem/implement-Array-prototype.flat)
+- [151 - Array.prototype.map](BFE/map.js)
+  - [BFE - map](https://bigfrontend.dev/problem/implement-Array-prototype-map)
+- [8 - shuffle](BFE/shuffler.js)
+  - [BFE - shuffle](https://bigfrontend.dev/problem/can-you-shuffle-an-array)
 
 ##### Data Structure & Algorithm
 
