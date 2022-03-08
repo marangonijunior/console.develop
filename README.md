@@ -14,8 +14,8 @@ If you don't know BFE.dev please take a look in the website, is amazing and hope
 [BFE](https://bigfrontend.dev/)
 
 - [6 - debounce/throttle](BFE/throttleDebounce.js)
-  - [debounce](<https://bigfrontend.dev/list/vgc2d80lcrsccm1ptm6#:~:text=6.%20implement%20basic%20debounce()>)
-  - [throttle](<https://bigfrontend.dev/list/vgc2d80lcrsccm1ptm6#:~:text=4.%20implement%20basic%20throttle()>)
+  - [BFE - debounce](<https://bigfrontend.dev/list/vgc2d80lcrsccm1ptm6#:~:text=6.%20implement%20basic%20debounce()>)
+  - [BFE - throttle](<https://bigfrontend.dev/list/vgc2d80lcrsccm1ptm6#:~:text=4.%20implement%20basic%20throttle()>)
 
 ##### Data Structure & Algorithm
 
