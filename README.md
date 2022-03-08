@@ -8,7 +8,7 @@
 
 Some features that we cover here:
 
-##### JS
+##### JS - BFE
 
 If you don't know BFE.dev please take a look in the website, is amazing and hopefull to do the test.
 [BFE](https://bigfrontend.dev/)
