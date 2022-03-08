@@ -11,7 +11,7 @@ Some features that we cover here:
 ##### JS - BFE
 
 If you don't know BFE.dev please take a look in the website, is amazing and hopefull to do the test.
-[BFE](https://bigfrontend.dev/)
+[BFE.dev](https://bigfrontend.dev/)
 
 - [6/4 - debounce/throttle](BFE/throttleDebounce.js)
   - [BFE - debounce](https://bigfrontend.dev/problem/implement-basic-debounce)
@@ -22,6 +22,39 @@ If you don't know BFE.dev please take a look in the website, is amazing and hope
   - [BFE - map](https://bigfrontend.dev/problem/implement-Array-prototype-map)
 - [8 - shuffle](BFE/shuffler.js)
   - [BFE - shuffle](https://bigfrontend.dev/problem/can-you-shuffle-an-array)
+- [21 - JSON.stringify()](BFE/stringfy.js)
+  - [BFE - JSON.stringify()](https://bigfrontend.dev/problem/implement-JSON-stringify)
+- [28 - clearAllTimeout()](BFE/clearAllTimeouts.js)
+  - [BFE - clearAllTimeout()](https://bigfrontend.dev/problem/implement-clearAllTimeout)
+- [16 - Event Emitter](BFE/emitter.js)
+  - [BFE - Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter)
+- [57 - Observable](BFE/observable.js)
+  - [BFE - Observable](https://bigfrontend.dev/problem/create-an-Observable)
+- [10 - Bad version](BFE/badVersion.js)
+  - [BFE - Bad version](https://bigfrontend.dev/problem/first-bad-version)
+- [18 - Improve function](BFE/improveFnc.js)
+  - [BFE - Improve function](https://bigfrontend.dev/problem/improve-a-function)
+- [19 - correspondent node tree](BFE/findNodeDOMtree.js)
+  - [BFE - correspondent node tree](https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree)
+- [58 - DOM height](BFE/treeHeight.js)
+  - [BFE - DOM height](https://bigfrontend.dev/problem/get-DOM-tree-height)
+- [91 - invert binary tree](BFE/invertTree.js)
+  - [BFE - invert binary tree](https://bigfrontend.dev/problem/invert-a-binary-tree)
+- [25 - Reorder new indexes](BFE/invertBT.js)
+  - [BFE - Reorder new indexes](https://bigfrontend.dev/problem/reorder-array-with-new-indexes)
+- [110/113/118/140 - DOM](BFE/htmljson.js)
+  - [BFE - serialize e deserialize](https://bigfrontend.dev/problem/serialize-and-deserialize-binary-tree)
+  - [BFE - DOM I](https://bigfrontend.dev/problem/Virtual-DOM-I)
+  - [BFE - DOM II](https://bigfrontend.dev/problem/virtual-dom-II-createElement)
+  - [BFE - DOM III](https://bigfrontend.dev/problem/virtual-DOM-III-Functional-Component)
+- [17 - store DOM](BFE/storeDOM.js)
+  - [BFE - store DOM](https://bigfrontend.dev/problem/create-a-simple-store-for-DOM-node)
+- [68 - DOM tags](BFE/getTag.js)
+  - [BFE - DOM tags](https://bigfrontend.dev/problem/get-DOM-tags)
+- [161 - not toBe](BFE/toBeNotBe.js)
+  - [BFE - not toBe](https://bigfrontend.dev/problem/jest-assertion)
+- [14 - memo()](BFE/memo.js)
+  - [BFE - memo()](https://bigfrontend.dev/problem/implement-general-memoization-function)
 
 ##### Data Structure & Algorithm
 
