@@ -17,13 +17,8 @@
  * @return {string}
  */
 function serialize(root) {
-  if(!root) return 'null'
-
-  return `
-    ${root.value},
-    ${serialize(root.left)},
-    ${serialize(root.right)}
-  `
+  if(!root) return 'null';
+  return `${root.value},${serialize(root.left)},${serialize(root.right)}`;
 }
 
 /**
@@ -31,19 +26,20 @@ function serialize(root) {
  * @return {Node}
  */
 function deserialize(str) {
-  const arrFromString = str.split(',');
+  let arrfromStr = str.split(',');
+  return dfs(arrfromStr);
 
-  return dfs(arrFromString);
-
-  function dfs(arr) {
+  function dfs(arr){
     if(!arr.length) return null;
-    const item = arr.shift();
-    if(item !== 'null') {
-      const node = new Node(item.value)
-      node.left = dfs(arrFromString)
-      node.right = dfs(arrFromString)
-      return node
+    let item = arr.shift();
+
+    if(item !== 'null'){
+      let node = new Node(item.value);
+      node.left = dfs(arrfromStr);
+      node.right = dfs(arrfromStr);
+      return node;
     }
-    return null
-  }
+
+    return null;
+  }  
 }
