@@ -1,21 +1,22 @@
 class NodeStore {
-  key = '__keyStoreNode__';
-  nodes = {};
+
+  key = '__key__';
+  storageNodes = {};
 
    /**
    * @param {Node} node
    * @param {any} value
    */
   set(node, value) {
-    node[this.key] = Symbol();
-    this.nodes[node[this.key]] = value;
+   node[this.key] = new Date().getTime().toString(); // Symbol()
+   this.storageNodes[node[this.key]] = value;
   }
   /**
    * @param {Node} node
    * @return {any}
    */
   get(node) {
-    return this.nodes[node[this.key]];
+   return this.storageNodes[node[this.key]];
   }
   
   /**
@@ -23,6 +24,6 @@ class NodeStore {
    * @return {Boolean}
    */
   has(node) {
-    return !!this.nodes[node[this.key]];
+    return !!this.storageNodes[node[this.key]]
   }
 }
