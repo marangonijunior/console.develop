@@ -1,11 +1,14 @@
-Array.prototype.myMap = function(fnc, thisObj) {
+
+
+Array.prototype.myMap = function(fnc, thisObject) {
   let result = [];
 
-  if(!this || typeof fnc !== 'function') throw new Error("Invalid args");
+  if(typeof fnc !== 'function') return null;
 
   this.forEach((item, idx) => {
-    result[idx] = fnc.call(thisObj, item, idx, this);
+    result[idx] = fnc.call(thisObject, item, idx, this)
   })
 
   return result;
 }
+
