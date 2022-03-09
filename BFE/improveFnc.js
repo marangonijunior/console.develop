@@ -15,3 +15,9 @@ function excludeItems(items, excludes) {
         );
     });
 }
+
+function excludeItems(items, excludes) {
+  return items.filter((item) =>
+    excludes.every(({k, v}) => item[k] !== v)
+  )
+}
