@@ -1,14 +1,20 @@
-function memo(fnc, resolver) {
+/**
+ * @param {Function} func
+ * @param {(args:[]) => string }  [resolver] - cache key generator
+ */
+function memo(func, resolver) {
   const cache = new Map();
-  
+
   return function(...args){
-    const key = resolver ? resolver(...args) : args.join('_');
+    const key = resolver && typeof resolver === 'function' ? resolver(...args) : args.join('_');
+    
     if(cache.has(key)){
       return cache.get(key);
     }
-    const value = fnc.apply(this, args);
-    cache.set(key,value);
 
-    return value;
+    const val = func.apply(this, args); 
+    cache.set(key, val);
+
+    return val;
   }
 }
