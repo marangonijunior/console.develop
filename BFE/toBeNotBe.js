@@ -1,4 +1,4 @@
-function myExpect(input) {
+function expect(input) {
   let not = false;
   
   return {
@@ -14,4 +14,13 @@ function myExpect(input) {
       return this;
     }
   }
-}
+};
+
+function it(input_str, func){
+  try{
+    func();
+    console.log("Success:",input_str)
+  }catch(err){
+    console.log("Failure:",input_str)
+  }
+};
